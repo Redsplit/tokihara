@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "tokihara",
   "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
   "dependencies": {
     "child_process": "^1.0.2",
     "config.json": "0.0.4",

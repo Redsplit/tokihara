@@ -1,7 +1,7 @@
 <div align="center">
    <img width="260" src="https://i.imgur.com/K6GYY36.png" alt="logo"></br><h2>Tokihara</h2>
 
-[![CodeFactor](https://www.codefactor.io/repository/github/sinkaroid/tokihara/badge)](https://www.codefactor.io/repository/github/sinkaroid/tokihara) [![](https://img.shields.io/npm/v/nhentai-api-js)](https://www.npmjs.com/package/nhentai-api-js?activeTab=versions) [![](https://img.shields.io/node/v/discord.js)](https://discord.js.org/#//) [![Depfu](https://badges.depfu.com/badges/6c9eeeca88c0a827bb31e818ce980e29/overview.svg)](https://depfu.com/github/sinkaroid/tokihara?project_id=12347) [![Build Status](https://travis-ci.com/sinkaroid/tokihara.svg?branch=master)](https://travis-ci.com/sinkaroid/tokihara)  
+[![CodeFactor](https://www.codefactor.io/repository/github/sinkaroid/tokihara/badge)](https://www.codefactor.io/repository/github/sinkaroid/tokihara) [![](https://img.shields.io/npm/v/nhentai-api-js)](https://www.npmjs.com/package/nhentai-api-js?activeTab=versions) [![](https://img.shields.io/node/v/discord.js)](https://discord.js.org/#//) [![Depfu](https://badges.depfu.com/badges/6c9eeeca88c0a827bb31e818ce980e29/overview.svg)](https://depfu.com/github/sinkaroid/tokihara?project_id=12347) [![Build Status](https://travis-ci.com/sinkaroid/mai.svg?branch=master)](https://travis-ci.com/sinkaroid/mai)  
 
 
 ----
