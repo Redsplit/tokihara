@@ -1,0 +1,16 @@
+{
+    "name": "Tokihara",
+    "description": "Doujin Helperbot",
+    "repository": "https://github.com/sinkaroid/tokihara/tree/dev",
+    "logo": "https://camo.githubusercontent.com/d57e1ea4e8fca413234c5509e8f5eafd55783726/68747470733a2f2f692e696d6775722e636f6d2f4b3647595933362e706e67",
+    "keywords": ["node", "discordjs", "nhentai"],
+    "env": 
+    {
+          "TOKEN": {
+              "description": "Discord BOT token. Get it here: https://discordapp.com/developers/applications/."
+          },
+            "PREFIX": {
+              "description": "PREFIX"
+          }
+    }
+  }
