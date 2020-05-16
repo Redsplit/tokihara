@@ -1,4 +1,4 @@
 #! /bin/bash
 git add .
-git commit -m "dev init"
+git commit -m "fix property"
 git push -f --set-upstream origin dev
